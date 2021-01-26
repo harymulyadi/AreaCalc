@@ -1,2 +1,2 @@
 # AreaCalc
-User to calculate are of Convex Shape
+Used to calculate area of Convex Shapes
